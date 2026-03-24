@@ -3,7 +3,7 @@
 [![license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MIMICLab/AgentVox/blob/main/LICENSE)
 [![Downloads](https://pepy.tech/badge/agentvox)](https://pepy.tech/project/agentvox)
 
-Edge-based voice assistant using Gemma LLM with real-time Speech-to-Text and Text-to-Speech capabilities
+Edge-based voice assistant using Gemma LLM with real-time Speech-to-Text and Text-to-Speech capabilities.
 
 ## 🆕 What's New (v0.2.0)
 
