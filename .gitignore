@@ -1,0 +1,51 @@
+# macOS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Packaging artifacts
+build/
+dist/
+site/
+.eggs/
+*.egg
+*.egg-info/
+pip-wheel-metadata/
+PKG-INFO
+
+# Test and tooling caches
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.pyre/
+.ruff_cache/
+.hypothesis/
+.tox/
+.nox/
+
+# Logs and local env files
+*.log
+.env
+.env.*
+*.local
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# AgentVox local assets
+*.gguf
+*.wav
